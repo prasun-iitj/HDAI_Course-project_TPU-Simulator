@@ -1,5 +1,5 @@
 
-# TPU Simulator Project – Version 2
+# TPU Simulator Project
 
 ## What This Project Is Really About
 
@@ -27,8 +27,6 @@ Each **PE (Processing Element)** does one job: multiply-accumulate (C += A × B)
 Data flows through the grid in waves, with multiple multiplications happening in parallel!
 
 ## What We Included
-
-Version 2 features:
 
 • **Systolic array simulation** - We simulate how data flows through the array cycle-by-cycle
 • **Matrix multiplication** - Core operation: multiply two matrices using parallel processing
