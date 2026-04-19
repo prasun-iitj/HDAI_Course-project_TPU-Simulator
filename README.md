@@ -177,6 +177,6 @@ Ratio:     CPUs are 977× faster (because NumPy is highly optimized in C!)
 ## Authors & Contributions
 
 **Group Project:** TPU Simulator for AI Hardware Design Course  
-**Team:** Prasun Kumar Tripathi and team members
+**Team:** Prasun Kumar Tripathi (M25AI2151), Kamal Kumar (M25AI2148), Vikash Kumar (M25AI2166), Sachin Yadav (M25AI2051)
 
-*We learned a lot about how AI accelerators work. This simulator shows the core concept: parallel processing through systolic arrays!* 🚀
+*It is our course project for - "Hardware Design for AI" in the MTech program of IIT Jodhpur. We kept the code readable and honest, with a real learning focus on systolic arrays.* 🚀

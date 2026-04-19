@@ -1,5 +1,12 @@
 # QUICKSTART Guide
 
+## Team
+
+- Prasun Kumar Tripathi (M25AI2151)
+- Kamal Kumar (M25AI2148)
+- Vikash Kumar (M25AI2166)
+- Sachin Yadav (M25AI2051)
+
 ## Simplest Verification for Professors / TAs
 
 ### One command to run everything:

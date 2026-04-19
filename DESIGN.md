@@ -1,6 +1,12 @@
 
 # TPU Simulator Design - Our Implementation
 
+## Team
+- Prasun Kumar Tripathi (M25AI2151)
+- Kamal Kumar (M25AI2148)
+- Vikash Kumar (M25AI2166)
+- Sachin Yadav (M25AI2051)
+
 ## Overview
 This is our implementation of a TPU (Tensor Processing Unit) simulator that we built to understand how Google's AI accelerators work at the hardware level. The core idea is systolic arrays - a clever way to do parallel matrix multiplication!
 

@@ -1,6 +1,13 @@
 
 # Project Instructions & Setup
 
+## Team
+
+- Prasun Kumar Tripathi (M25AI2151)
+- Kamal Kumar (M25AI2148)
+- Vikash Kumar (M25AI2166)
+- Sachin Yadav (M25AI2051)
+
 ## Requirements
 
 - **Python:** 3.8 or higher

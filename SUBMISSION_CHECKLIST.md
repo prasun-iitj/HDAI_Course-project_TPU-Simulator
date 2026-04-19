@@ -1,5 +1,11 @@
 # Submission Checklist - TPU Simulator Project
 
+## Team
+- Prasun Kumar Tripathi (M25AI2151)
+- Kamal Kumar (M25AI2148)
+- Vikash Kumar (M25AI2166)
+- Sachin Yadav (M25AI2051)
+
 ## Project Overview ✓
 - We built a TPU (Tensor Processing Unit) simulator using systolic array architecture
 - The goal was to understand how Google's AI accelerators work at the hardware level
